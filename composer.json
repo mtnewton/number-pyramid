@@ -1,0 +1,15 @@
+{
+    "name": "mtnewton/number-pyramid",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marvin Newton",
+            "email": "mtnewton3@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MTNewton\\NumberPyramid\\": "src/"
+        }
+    }
+}
